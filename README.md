@@ -11,6 +11,9 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 - Oracle Certified Professional
 - Oracle Certified Associate 
 
+### Training
+- Udemy: Learn the skills to become a Product Manager 
+
 ### Experience
 
 #### April 2023 - Present
