@@ -1,5 +1,5 @@
 ## Product Manager / Business Process Analyst / ServiceNow 
-Seasoned and versatile technology professional with a proven track record in implementing and maintaining transformative cloud-based enterprise solutions for medium to large enterprises. With expertise spanning both technical and business aspects of information technology, and bolstered by the recent achievement of the ServiceNow Certified System Administrator (CSA) credential, I'm well-positioned to seamlessly transition into the ServiceNow ecosystem.
+Certified ServiceNow System Administrator with over 10 years of experience in product management, IT service management, and security. Skilled in leading product development from conception to launch, ensuring alignment with business objectives, and enhancing customer satisfaction. Proven track record of optimizing operations and implementing robust security measures.
 
 ### Certifications
 - ServiceNow Certified System Administrator (CSA)
@@ -10,6 +10,16 @@ Seasoned and versatile technology professional with a proven track record in imp
 - Microsoft Certified Technical Specialist
 - Oracle Certified Professional
 - Oracle Certified Associate 
+
+### Experience
+##### May 2014 - Present
+##### Product Management Lead, Sysserve
+- **Product Lifecycle Management**: Led the product lifecycle from conception to launch, ensuring product-market fit and quality assurance.
+- **Market Research and Analysis**: Conducted market research to identify customer needs and competitive landscape, driving product strategy.
+- **User-Centric Design**: Collaborated with design and development teams to create user-centric product features and enhancements.
+- **Go-to-Market Strategy**: Developed and executed go-to-market strategies, including SEO, digital, and email marketing campaigns to bolster product adoption.
+- **Sales Enablement**: Created sales and marketing materials, conducted presentations and demos, performed ROI analysis, and developed pricing strategies to support the sales team.
+- **Customer Feedback Integration**: Implemented programs to collect and integrate customer feedback into the product development process, enhancing user satisfaction and retention.
 
 #### Skills
 - Agile & Scrum 
