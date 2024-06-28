@@ -11,7 +11,7 @@ Seasoned and versatile technology professional with a proven track record in imp
 - Oracle Certified Professional
 - Oracle Certified Associate 
 
-#### Skill
+#### Skills
 - Agile & Scrum 
 - Product management
 - Service management
