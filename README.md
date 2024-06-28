@@ -25,6 +25,7 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 
 #### May 2014 - Present
 #### Product Management Lead, Sysserve
+Sysserve, a developer of enterprise physical asset software for medium to large enterprises, I played a multifaceted role in the company's product development and operations. I ensured seamless product lifecycle management and drove continuous improvement & innovation to align with market needs and business goals.
 - **Product Lifecycle Management**: Led the product lifecycle from conception to launch, ensuring product-market fit and quality assurance.
 - **Market Research and Analysis**: Conducted market research to identify customer needs and competitive landscape, driving product strategy.
 - **User-Centric Design**: Collaborated with design and development teams to create user-centric product features and enhancements.
