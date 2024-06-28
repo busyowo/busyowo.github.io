@@ -15,7 +15,7 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 
 #### April 2023 - Present
 #### Freelance ServiceNow Product Manager, Techinklass
-- **Requirement Gathering**: Led client requirement sessions to align business goals with ServiceNow capabilities.
+- **Requirement Gathering**: Led client requirement sessions to align business goals with ServiceNow ITSM capabilities.
 - **Product Development**: Developed custom applications using ServiceNow Studio and AES to streamline workflows. Designed front-end portal experiences tailored to various user groups' needs, enhancing user experience and maximizing ServiceNow investments.
 - **Service Catalog Customization**: Enhanced user experience by customizing service catalog items and order guides, ensuring alignment with business processes and improving ServiceNow usability.
 - **Workflow Automation & Advanced Scripting**: Configured workflows with Flow Designer and implemented JavaScript and Glide API scripts for advanced customization and automation.
