@@ -35,6 +35,7 @@ Sysserve, a developer of enterprise physical asset software for medium to large 
 
 #### December 2012 - April 2014
 #### Senior Technical Consultant, VANSO (Acquired)
+At VANSO, I ensured uninterrupted service delivery and security VANSO's critical messaging and banking systems, driving client satisfaction through ITIL ITSM standards implementation and continuous system improvement.
 - **Client Needs Analysis**: Conducted thorough analysis of client requirements and translated them into actionable technical solutions.
 - **Product Enhancements**: Enhanced system standards, procedures, and documentation to optimize product performance and reliability.
 - **Deployment Management**: Led the deployment of mobile payment and authentication applications across major financial institutions, ensuring scalability and security.
