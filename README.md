@@ -28,6 +28,13 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 - **Deployment Management**: Led the deployment of mobile payment and authentication applications across major financial institutions, ensuring scalability and security.
 - **Automated Solutions**: Developed automated solutions for database backup, replication, and report generation using BASH Shell Scripting and SQL.
 
+#### March 2008 - November 2012
+#### Systems and Database Engineer, Webb Fontaine Nigeria
+- **Product Development**: Played a pivotal role in the design, development, and deployment of technology infrastructure for the Asycuda++ project.
+- **Technical Project Management**: Implemented incident, problem, change, and risk management processes to ensure smooth project operations.
+- **Customer Support**: Provided onsite and remote technical support to clients, ensuring seamless system operations and high satisfaction.
+- **Data Security**: Implemented encryption to safeguard the confidentiality of data on clients' storage devices.
+
 ### Skills
 - Agile & Scrum 
 - Product management
@@ -38,4 +45,4 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 - Information security
 - Dev skills: Javascript, HTML, CSS, Python, Database
 
-Yess it does
+
