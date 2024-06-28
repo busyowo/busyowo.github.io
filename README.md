@@ -63,4 +63,10 @@ As a System and Database Engineer at Webb Fontaine Nigeria, I played a pivotal r
 - Information security
 - Dev skills: Javascript, HTML, CSS, Python, Database
 
+### Education
+- Bachelor's Degree, University of Ilorin
+
+### Contact
+- owoeyejohnson@gmail.com
+- +2347039784709
 
