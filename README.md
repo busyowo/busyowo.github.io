@@ -14,18 +14,14 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 ### Experience
 
 #### April 2023 - Present
-#### Freelance ServiceNow Admin/Jr Developer, Techinklass
-- **Product Development**: Designed front-end portal experiences across web and mobile platforms, tailored to various companies' unique business requirements.
-- **Requirement Gathering**: Led client requirement sessions to ensure alignment with business goals and ServiceNow capabilities.
-- **Custom Application Development**: Utilized ServiceNow Studio and Application Engine Studio (AES) to develop custom applications that streamline workflows and enhance efficiency.
-- **Service Catalog Customization**: Enhanced user experience by customizing service catalog items and order guides, maximizing the value derived from ServiceNow investments.
-- **Workflow Automation**: Configured workflows using Flow Designer for process automation and third-party integration.
-- **Advanced Scripting**: Implemented client and server-side scripts, including business rules, client scripts, UI actions, and UI policies, utilizing JavaScript and Glide API scripts for advanced customization.
-- **Data Management**: Facilitated seamless data mapping and transformation using Import Sets.
-- **System Integration**: Implemented REST, SOAP APIs, and web services for efficient system integration.
-- **Quality Assurance**: Conducted rigorous manual testing to ensure the reliability and functionality of ServiceNow solutions.
-- **Change Management**: Efficiently deployed changes from non-production to production environments using Update Sets.
-- **Training**: Conducted comprehensive training sessions for end-users and administrators to ensure effective use of ServiceNow solutions.
+#### Freelance ServiceNow Product Manager, Techinklass
+- **Requirement Gathering**: Led client requirement sessions to align business goals with ServiceNow capabilities.
+- **Product Development**: Developed custom applications using ServiceNow Studio and AES to streamline workflows. Designed front-end portal experiences tailored to various user groups' needs, enhancing user experience and maximizing ServiceNow investments.
+- **Service Catalog Customization**: Enhanced user experience by customizing service catalog items and order guides, ensuring alignment with business processes and improving ServiceNow usability.
+- **Workflow Automation & Advanced Scripting**: Configured workflows with Flow Designer and implemented JavaScript and Glide API scripts for advanced customization and automation.
+- **Data Management & System Integration**: Managed data mapping and transformation with Import Sets. Implemented REST, SOAP APIs, and web services for seamless system integration.
+- **Quality Assurance & Change Management**: Conducted rigorous manual testing and efficiently deployed changes using Update Sets to ensure reliable ServiceNow solutions.
+- **Training**: Conducted comprehensive training sessions for end-users and administrators to optimize ServiceNow solution utilization."
 
 #### May 2014 - Present
 #### Product Management Lead, Sysserve
