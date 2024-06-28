@@ -1,6 +1,6 @@
 # Personal Profile
-##Here is my page
+## Here is my page
 
-###Looks good
+### Looks good
 
 Yess it does
