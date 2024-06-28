@@ -43,6 +43,7 @@ At VANSO, I ensured uninterrupted service delivery and security VANSO's critical
 
 #### March 2008 - November 2012
 #### Systems and Database Engineer, Webb Fontaine Nigeria
+As a System and Database Engineer at Webb Fontaine Nigeria, I played a pivotal role in the Systems and Database Engineering team supporting the nation-wide Customs Service (NCS) modernization project, known as Asycuda++. This project digitalized NCS operations and significantly increased the import duty revenue for the Federal Government.
 - **Product Development**: Played a pivotal role in the design, development, and deployment of technology infrastructure for the Asycuda++ project.
 - **Technical Project Management**: Implemented incident, problem, change, and risk management processes to ensure smooth project operations.
 - **Customer Support**: Provided onsite and remote technical support to clients, ensuring seamless system operations and high satisfaction.
