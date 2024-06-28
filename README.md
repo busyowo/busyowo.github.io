@@ -12,8 +12,8 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 - Oracle Certified Associate 
 
 ### Experience
-##### May 2014 - Present
-##### Product Management Lead, Sysserve
+#### May 2014 - Present
+#### Product Management Lead, Sysserve
 - **Product Lifecycle Management**: Led the product lifecycle from conception to launch, ensuring product-market fit and quality assurance.
 - **Market Research and Analysis**: Conducted market research to identify customer needs and competitive landscape, driving product strategy.
 - **User-Centric Design**: Collaborated with design and development teams to create user-centric product features and enhancements.
@@ -21,14 +21,14 @@ Certified ServiceNow System Administrator with over 10 years of experience in pr
 - **Sales Enablement**: Created sales and marketing materials, conducted presentations and demos, performed ROI analysis, and developed pricing strategies to support the sales team.
 - **Customer Feedback Integration**: Implemented programs to collect and integrate customer feedback into the product development process, enhancing user satisfaction and retention.
 
-##### December 2012 - April 2014
-##### Senior Technical Consultant, VANSO (Acquired)
+#### December 2012 - April 2014
+#### Senior Technical Consultant, VANSO (Acquired)
 - **Client Needs Analysis**: Conducted thorough analysis of client requirements and translated them into actionable technical solutions.
 - **Product Enhancements**: Enhanced system standards, procedures, and documentation to optimize product performance and reliability.
 - **Deployment Management**: Led the deployment of mobile payment and authentication applications across major financial institutions, ensuring scalability and security.
 - **Automated Solutions**: Developed automated solutions for database backup, replication, and report generation using BASH Shell Scripting and SQL.
 
-#### Skills
+### Skills
 - Agile & Scrum 
 - Product management
 - Service management
