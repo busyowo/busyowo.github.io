@@ -11,6 +11,14 @@ Seasoned and versatile technology professional with a proven track record in imp
 - Oracle Certified Professional
 - Oracle Certified Associate 
 
-#### Looks good
+#### Skill
+- Agile & Scrum 
+- Product management
+- Service management
+- Technical sales
+- Business development
+- Application support
+- Information security
+- Dev skills: Javascript, HTML, CSS, Python, Database
 
 Yess it does
